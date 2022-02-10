@@ -13,12 +13,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution--cCQzfMNW)
-- Live Site URL: [Github Pages](https://diwakarsingh95.github.io/nft-preview-card/)
+- Solution URL: [](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution--cCQzfMNW)
+- Live Site URL: [](https://diwakarsingh95.github.io/nft-preview-card/)
 
 ## My process
 
